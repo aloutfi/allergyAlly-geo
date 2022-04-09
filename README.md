@@ -1,1 +1,1 @@
-# allergyAlly-loc
+# allergyAlly-geo
