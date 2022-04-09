@@ -3,7 +3,7 @@ import dotenv  from "dotenv";
 
 dotenv.config({path:'app.env'})
 
-function geocodeAddress(address) {
+export function geocodeAddress(address) {
     /*
     Given an address, return the coordinates for that address
     */
