@@ -17,7 +17,7 @@ async function geocodeAddress(address) {
         .catch(err => {
             console.log(`error ${err}`);
         })
-        return response
+    return response
 }
 
 console.log(await geocodeAddress('915 20th ave NE Minneapolis, MN 55418'));
