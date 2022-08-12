@@ -20,4 +20,3 @@ async function geocodeAddress(address) {
     return response
 }
 
-console.log(await geocodeAddress('915 20th ave NE Minneapolis, MN 55418'));
